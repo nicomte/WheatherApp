@@ -1,0 +1,8 @@
+How to Run Unix:
+
+java -cp "g01-wda-ui-1.0.0-SNAPSHOT.jar:dependency/*" ch.hslu.wda.g01.WdaG01App
+
+
+How to Run Windows:
+
+java -cp "g01-wda-ui-1.0.0-SNAPSHOT.jar;dependency/*" ch.hslu.wda.g01.WdaG01App

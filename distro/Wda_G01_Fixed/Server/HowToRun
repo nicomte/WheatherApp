@@ -1,0 +1,10 @@
+How to Run Unix:
+
+java -cp "g01-wda-ressource-1.0.0-SNAPSHOT.jar:dependency/*" ch.hslu.swde.wda.g01.ressource.srv.ServerApp
+
+
+How tu Run Windows: 
+
+java -cp "g01-wda-ressource-1.0.0-SNAPSHOT.jar;dependency/*" ch.hslu.swde.wda.g01.ressource.srv.ServerApp
+
+
